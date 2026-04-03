@@ -1,8 +1,3 @@
-+--------------------------------------------------+
-|   Michael Zelinka – Fullstack & AI Portfolio     |
-|   Python · FastAPI · AI · Automation · Data      |
-+--------------------------------------------------+
-
 # 🚀 Fullstack & AI Portfolio
 Welcome to my development portfolio!  
 This repository serves as a central hub for all of my **AI**, **backend**, **fullstack**, and **data projects**.  
